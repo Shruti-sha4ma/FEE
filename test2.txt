@@ -1,0 +1,7 @@
+Browser Storage allows websites to store data locally in a user's browser. 
+It helps maintain data even after refreshing or closing the browser. 
+Its main types are Local Storage, Session Storage, and Cookies.
+
+User Interface (UI) User Interface (UI) is the visual part of an application through which users interact with a
+website or software. It includes buttons, menus, forms, images, and layouts. 
+A good UI is simple, attractive, user-friendly, and easy to navigate

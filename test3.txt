@@ -1,0 +1,16 @@
+//CRUD operations in React represent four basic actions performed on data: Create, Read, Update, and Delete.
+ React uses components, state, and event handlers to manage these operations, allowing users to add, 
+ display, modify, and remove data dynamically without reloading the webpage.
+ crud stands for create retrieve/read update delete
+
+  //api is application programming interface that helps two software applications to communicate with each other and 
+ exchange data with each other.It acts as a bridge between client and server. 
+ APIs help integrate third-party services, reuse functionality, and simplify application development.
+
+
+ //react components are reusable, independent building blocks 
+ They define the UI and can contain HTML-like JSX, JavaScript, and CSS, 
+ they make code reusable, organised and easy to maintain
+
+//963*
+  
